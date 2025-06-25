@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "74358569252",
+    "firebase_url": "https://myxa-52b87-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myxa-52b87",
+    "storage_bucket": "myxa-52b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74358569252:ios:d86f6dd176560d387c5bb1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MyxaUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74358569252-5pedcg3v312tor133mropiig8uv1p3re.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75vaZ1s9IlEliIlYSC8l4eYZhkpaNW5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

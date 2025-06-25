@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>74358569252-5pedcg3v312tor133mropiig8uv1p3re.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.74358569252-5pedcg3v312tor133mropiig8uv1p3re</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA75vaZ1s9IlEliIlYSC8l4eYZhkpaNW5U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>74358569252</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myxaltd.app</string>
+	<key>PROJECT_ID</key>
+	<string>myxa-52b87</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myxa-52b87.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:74358569252:ios:d86f6dd176560d387c5bb1</string>
+	<key>DATABASE_URL</key>
+	<string>https://myxa-52b87-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
